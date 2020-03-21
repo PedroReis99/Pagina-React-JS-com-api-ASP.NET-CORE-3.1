@@ -1,0 +1,15 @@
+.Div-lateral {
+    width: 75px;
+    height: 100.5%;
+    background: indigo;
+    align-items: center;
+}
+
+.Div-lateral button#btn1 {
+    margin-top: 280px;
+    margin-left: 60px;
+    width: 0px;
+    height: 0px;
+    background: #4b0082;
+    border: #4b0082;
+}
